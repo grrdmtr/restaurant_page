@@ -13,7 +13,7 @@ let about = () => {
   main.appendChild(title);
 
   let description = document.createElement('p');
-  description.innerHTML = 'Neo este o poveste românească, începe cu a fost odată și continuă cu lupta contra fricii drobului de sare. Acel drob în spatele căruia stă o reală frică de a acţiona, care ne transformă, uneori, în contemplatori ai lui şi nu invers. Nouă însă ne place să credem că drobul de sare este un început. Nu ne este teama de el, ci din contra, ne-a devenit prieten, şlefuit din drob într-un cristal luminos de sare. Aşadar "cristalul de sare" al teritoriul românesc este laitmotivul manifesto-ului NOUA...Îl găsiţi şi în sigla noastră.';
+  description.innerHTML = 'Neo is a Romanian story, it starts with once upon a time and continues with the fight against the fear of the salt droplet. That drob behind which lies a real fear of acting, which sometimes turns us into its beholders and not the other way around. But we like to think of the salt cube as a beginning. We are not afraid of it; on the contrary, it has become our friend, polished from the droplet into a luminous crystal of salt. So the "salt crystal" of the Romanian territory is the motto of the NOUA manifesto...';
   main.appendChild(description);
 
   content.appendChild(main);
