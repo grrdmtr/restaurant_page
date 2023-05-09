@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./Montserrat-Regular.ttf */ \"./src/Montserrat-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n  font-family: 'Montserrat';\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \") format('ttf');\\n  font-weight: 600;\\n  font-style: normal;\\n}\\n\\nbody {\\n  margin: 0px;\\n  font-family: 'Montserrat';\\n}\\n\\n.top-bar {\\n  display: flex;\\n  justify-content: space-around;\\n  align-items: center;\\n\\n  background-color: black;\\n  color: white;\\n  height: 60px;\\n}\\n\\n.title {\\n  text-align: center;\\n}\\n\\n.description {\\n  max-width: 80vw;\\n}\\n\\n.main {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n}\\n/* .restaurant-image {\\n  background: url('./restaurant.jpg');\\n  background-size: cover;\\n} */\\n\\nimg {\\n  max-width: 100vW;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant_page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./Montserrat-Regular.ttf */ \"./src/Montserrat-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! restaurant.jpg */ \"./src/restaurant.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! restaurant-3.jpg */ \"./src/restaurant-3.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! restaurant-2.jpg */ \"./src/restaurant-2.jpg\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n  font-family: 'Montserrat';\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \") format('ttf');\\n  font-weight: 600;\\n  font-style: normal;\\n}\\n\\nbody {\\n  margin: 0px;\\n  font-family: 'Montserrat';\\n  color: white;\\n}\\n\\n.top-bar {\\n  display: flex;\\n  justify-content: space-around;\\n  align-items: center;\\n\\n  background-color: black;\\n  color: white;\\n  height: 10vh;\\n}\\n\\n.title {\\n  text-align: center;\\n}\\n\\n.description {\\n  max-width: 80vw;\\n}\\n\\n.main {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  align-items: center;\\n  \\n  padding: 0 8em;\\n}\\n\\n.main#menu {\\n  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\n  height: 90vh;\\n  background-size: cover;\\n  color: white;\\n}\\n\\n.main#about {\\n  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\n  height: 90vh;\\n  background-size: cover;\\n  color: white;\\n}\\n\\n.main#contact {\\n  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \");\\n  height: 90vh;\\n  background-size: cover;\\n  color: white;\\n\\n}\\n\\nimg {\\n  max-width: 50vw;\\n}\\n\\n.presentation {\\n  width: 50vw;\\n  padding: 0 30px;\\n}\\n\\nbutton {\\n  background-color: black;\\n  color: white;\\n  border: 1px white solid;\\n  border-radius: 5px;\\n  padding: 10px;\\n  width: 80px;\\n}\\n\\nbutton:hover {\\n  background-color: white;\\n  color: black;\\n  border: 1px white solid;\\n  border-radius: 5px;\\n  padding: 10px;\\n  width: 80px;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant_page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -120,13 +120,63 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/about.js":
+/*!**********************!*\
+  !*** ./src/about.js ***!
+  \**********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nlet about = () => {\n  let content = document.getElementById('content');\n\n  let about = document.getElementById('about');\n  about.classList.add('active');\n\n  let main = document.createElement('div')\n  main.classList.add('main');\n  main.setAttribute('id', 'about');\n\n  let title = document.createElement('h2');\n  title.innerHTML = 'Discover Romania through your taste buds.'\n  main.appendChild(title);\n\n  let description = document.createElement('p');\n  description.innerHTML = 'Neo este o poveste românească, începe cu a fost odată și continuă cu lupta contra fricii drobului de sare. Acel drob în spatele căruia stă o reală frică de a acţiona, care ne transformă, uneori, în contemplatori ai lui şi nu invers. Nouă însă ne place să credem că drobul de sare este un început. Nu ne este teama de el, ci din contra, ne-a devenit prieten, şlefuit din drob într-un cristal luminos de sare. Aşadar \"cristalul de sare\" al teritoriul românesc este laitmotivul manifesto-ului NOUA...Îl găsiţi şi în sigla noastră.';\n  main.appendChild(description);\n\n  content.appendChild(main);\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (about);\n\n//# sourceURL=webpack://restaurant_page/./src/about.js?");
+
+/***/ }),
+
+/***/ "./src/clear.js":
+/*!**********************!*\
+  !*** ./src/clear.js ***!
+  \**********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nlet clear = () => {\n  let main = document.getElementsByClassName('main')[0];\n  main.remove();\n\n  let buttons = document.getElementsByTagName('button');\n  for (let i = 0; i< buttons.length; i++) {\n    buttons[i].className = \"\";\n  }\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (clear);\n\n//# sourceURL=webpack://restaurant_page/./src/clear.js?");
+
+/***/ }),
+
+/***/ "./src/contact.js":
+/*!************************!*\
+  !*** ./src/contact.js ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nlet contact = () => {\n  let content = document.getElementById('content');\n\n  let contact = document.getElementById('contact');\n  contact.classList.add('active');\n\n  let main = document.createElement('div')\n  main.classList.add('main');\n  main.setAttribute('id', 'contact');\n\n  let title = document.createElement('h2');\n  title.innerHTML = 'Contact us:'\n  main.appendChild(title);\n\n  let description = document.createElement('p');\n  description.innerHTML = 'Bucharest. Lizeanu Street no. 8';\n  main.appendChild(description);\n\n  content.appendChild(main);\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (contact);\n\n//# sourceURL=webpack://restaurant_page/./src/contact.js?");
+
+/***/ }),
+
+/***/ "./src/home.js":
+/*!*********************!*\
+  !*** ./src/home.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _print_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./print.js */ \"./src/print.js\");\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n  createPage() {\n    const content = document.createElement('div');\n    content.setAttribute('id', 'content');\n    document.body.appendChild(content);\n    document.getElementById('content').appendChild(_print_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"].topBar());\n  }\n});\n\n//# sourceURL=webpack://restaurant_page/./src/home.js?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _print_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./print.js */ \"./src/print.js\");\n\n\n\ndocument.getElementById('content').appendChild(_print_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].topBar());\ndocument.getElementById('content').appendChild(_print_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].image());\ndocument.getElementById('content').appendChild(_print_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].main());\n\n\n//# sourceURL=webpack://restaurant_page/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _home_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./home.js */ \"./src/home.js\");\n/* harmony import */ var _clear_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./clear.js */ \"./src/clear.js\");\n/* harmony import */ var _about_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./about.js */ \"./src/about.js\");\n/* harmony import */ var _menu_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./menu.js */ \"./src/menu.js\");\n/* harmony import */ var _contact_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./contact.js */ \"./src/contact.js\");\n\n\n\n\n\n\n\n_home_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].createPage();\n\n(0,_about_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])();\n\nlet aboutBtn = document.getElementById('about');\naboutBtn.onclick = () => {\n  (0,_clear_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n  (0,_about_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])();\n}\n\nlet menuBtn = document.getElementById('menu');\nmenuBtn.onclick = () => {\n  (0,_clear_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n  (0,_menu_js__WEBPACK_IMPORTED_MODULE_4__[\"default\"])();\n}\n\nlet contactBtn = document.getElementById('contact');\ncontactBtn.onclick = () => {\n  (0,_clear_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n  (0,_contact_js__WEBPACK_IMPORTED_MODULE_5__[\"default\"])();\n}\n\n\n//# sourceURL=webpack://restaurant_page/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nlet menu = () => {\n  let content = document.getElementById('content');\n\n  let menu = document.getElementById('menu');\n  menu.classList.add('active');\n\n  let main = document.createElement('div')\n  main.classList.add('main');\n  main.setAttribute('id', 'menu');\n\n  let title = document.createElement('h2');\n  title.innerHTML = 'Menu:'\n  main.appendChild(title);\n\n  let description = document.createElement('p');\n  description.innerHTML = 'Soup';\n  main.appendChild(description);\n\n  content.appendChild(main);\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (menu);\n\n//# sourceURL=webpack://restaurant_page/./src/menu.js?");
 
 /***/ }),
 
@@ -136,7 +186,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _restaurant_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./restaurant.jpg */ \"./src/restaurant.jpg\");\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n  topBar() {\n    const element = document.createElement('div');\n    element.classList.add('top-bar');\n\n    const node1 = document.createElement('div');\n    node1.classList.add('about-us');\n    let node1Text = document.createTextNode('About us');\n    node1.appendChild(node1Text);\n    element.appendChild(node1);\n\n    const node2 = document.createElement('div');\n    node2.classList.add('menu');\n    let node2Text = document.createTextNode('Menu');\n    node2.appendChild(node2Text);\n    element.appendChild(node2);\n\n    const node3 = document.createElement('div');\n    node3.classList.add('contact');\n    let node3Text = document.createTextNode('Contact');\n    node3.appendChild(node3Text);\n    element.appendChild(node3);\n    \n    return element;\n  },\n\n  image() {\n    const element = document.createElement('div');\n\n    const background = new Image();\n    background.src = _restaurant_jpg__WEBPACK_IMPORTED_MODULE_0__;\n\n    element.appendChild(background);\n\n    return element;\n  },\n\n  main() {\n    const element = document.createElement('div');\n    element.classList.add('main');\n\n    const node1 = document.createElement('h1');\n    node1.classList.add('title');\n    let node1Text = document.createTextNode('Romanian. Neo. Cusine.');\n    node1.appendChild(node1Text);\n    element.appendChild(node1);\n\n    const node2 = document.createElement('p');\n    node2.classList.add('description');\n    let node2Text = document.createTextNode('Neo este o poveste românească, începe cu a fost odată și continuă cu lupta contra fricii drobului de sare. Acel drob în spatele căruia stă o reală frică de a acţiona, care ne transformă, uneori, în contemplatori ai lui şi nu invers. Nouă însă ne place să credem că drobul de sare este un început. Nu ne este teama de el, ci din contra, ne-a devenit prieten, şlefuit din drob într-un cristal luminos de sare. Aşadar \"cristalul de sare\" al teritoriul românesc este laitmotivul manifesto-ului NOUA...Îl găsiţi şi în sigla noastră.');\n    node2.appendChild(node2Text);\n    element.appendChild(node2);\n\n    return element;\n  }\n});\n\n//# sourceURL=webpack://restaurant_page/./src/print.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _restaurant_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./restaurant.jpg */ \"./src/restaurant.jpg\");\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\n  topBar() {\n    const element = document.createElement('header');\n    element.classList.add('top-bar');\n\n    const about = document.createElement('button');\n    about.setAttribute('id','about');\n    about.innerHTML = 'About us';\n    element.appendChild(about);\n\n    const menu = document.createElement('button');\n    menu.setAttribute('id','menu');\n    menu.innerHTML = 'Menu';\n    element.appendChild(menu);\n\n    const contact = document.createElement('button');\n    contact.setAttribute('id','contact');\n    contact.innerHTML = 'Contact';\n    element.appendChild(contact);\n    \n    return element;\n  }\n});\n\n//# sourceURL=webpack://restaurant_page/./src/print.js?");
 
 /***/ }),
 
@@ -147,6 +197,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"94bb495fba6077f669ed.ttf\";\n\n//# sourceURL=webpack://restaurant_page/./src/Montserrat-Regular.ttf?");
+
+/***/ }),
+
+/***/ "./src/restaurant-2.jpg":
+/*!******************************!*\
+  !*** ./src/restaurant-2.jpg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"1b134c6811df875ce2ff.jpg\";\n\n//# sourceURL=webpack://restaurant_page/./src/restaurant-2.jpg?");
+
+/***/ }),
+
+/***/ "./src/restaurant-3.jpg":
+/*!******************************!*\
+  !*** ./src/restaurant-3.jpg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"4415973cd4bdf20f31fc.jpg\";\n\n//# sourceURL=webpack://restaurant_page/./src/restaurant-3.jpg?");
 
 /***/ }),
 
